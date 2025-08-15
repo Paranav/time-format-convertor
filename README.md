@@ -5,7 +5,7 @@
 
 ## 📋 Prerequisites
 
-* **Java 11** must be installed on the system.
+* **Java 11 or above** must be installed on the system.
 * Check the version:
 
   ```bash
